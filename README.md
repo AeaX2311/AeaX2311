@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Mucho gusto, mi nombre es Alan Castro c:</h1>
-<img alt="Coding" width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="margin-bottom:100px;">
+<img alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="margin-bottom:100px;">
   
 Soy un estudiante de ingenieria en sistemas con experiencia en el manejo de soluciones completas en desarrollo de software para cualquier problemática.
 
